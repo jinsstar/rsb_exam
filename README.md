@@ -39,7 +39,7 @@ You can use my smtp setup to send mail.
 MAIL_DRIVER=smtp
 MAIL_HOST=smtp.gmail.com
 MAIL_PORT=587
-MAIL_USERNAME=masangkayjefferson27@gmail.com
-MAIL_PASSWORD=pygskgxutiefgyvm
+MAIL_USERNAME=your email
+MAIL_PASSWORD=you password
 MAIL_ENCRYPTION=tls
-MAIL_FROM_ADDRESS=masangkayjefferson27@gmail.com
+MAIL_FROM_ADDRESS=you email
