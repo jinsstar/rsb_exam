@@ -1,6 +1,7 @@
 # rsb_exam
 
 Step to run the project
+Open the Master Branch
 
 Frontend is created from React
 Frontend
